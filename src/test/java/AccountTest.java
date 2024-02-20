@@ -15,7 +15,7 @@ public class AccountTest {
         this.isPerhaps = isPerhaps;
     }
 
-    @Parameterized.Parameters(name = "name {0}, isPerhaps {2}")
+    @Parameterized.Parameters(name = "name {0}, isPerhaps {1}")
     public static Object[][] getBooleanData() {
         return new Object[][]{
                 {"Sidorov Sidr", true},
