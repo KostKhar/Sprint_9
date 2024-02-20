@@ -1,6 +1,6 @@
 package org.example;
 
-public class Praktikum{
+public class Praktikum {
     public static void main(String[] args) {
         /*
              В этом методе заложи логику работы с классом Account.
